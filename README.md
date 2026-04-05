@@ -1,7 +1,7 @@
 # Trabalho de Web: API de Produto
 
 Esse trabalho foi desenvolvido como atividade referente a disciplina de Web II da turma de ADS da ESBAM.
-**Aluna:*** Caio Cesar Miranda dos Santos
+**Aluno:*** Caio Cesar Miranda dos Santos
 **Professor:** Érico Borgonove
 
 ## Sobre o trabalho
